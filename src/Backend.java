@@ -5,11 +5,11 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
 public class Backend{
-        static String password="";      // Enter your password here for mysql 
-        static String uname = "";     // Enter your username for mysql
-        static String your_project_name_in_database="";  // Enter the name of your project you have made eg.pharmacy_1
-  public static String back(String query) throws Exception {// TODO Auto-generated method stub
-        String 
+        static String password= "";      // Enter your password here for mysql account
+        static String uname = "";     // Enter your username for mysql account
+        static String your_project_name_in_database= "";  // Enter the name of your database
+        
+  public static String back(String query) throws Exception {// TODO Auto-generated method stub        
         String url = "jdbc:mysql://localhost:3306/"+your_project_name_in_database+"";  // Lines 33-37 are for making connection to our mysql        
         Class.forName("com.mysql.cj.jdbc.Driver");
         Connection con = DriverManager.getConnection(url,uname,password);
