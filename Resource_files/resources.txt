@@ -1,0 +1,6 @@
+
+A jar file is a collection of Java classes (usually a library).
+And mysql-connector-java-8.0.12.jar is version 8.0.12 of the MySQL Connector/JDBC driver. 
+A JDBC driver is used to connect to a database, in this case to MySQL
+
+Download this file and import this is in reference libary.
