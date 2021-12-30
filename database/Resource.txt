@@ -1,2 +1,2 @@
 
-
+We have used the mysqlworkbench. So according to that ,use the mysql-queries written in login.sql and medicine.sql.
