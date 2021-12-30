@@ -4,6 +4,6 @@ In this project we have used java, java.awt(Abstract Window Toolkit) and mysql(a
 
 Our project is based on local shop pharmacy management system. In this project we have the functionality of adding, searching and deleting records of medicine and printing the bill.
 
-Admin functionality includes searching ,deleting and adding records of medicine (Admin layout) SahilBasia/Pharmacy_management_project/src/AdminLayout.java
-Non-admin functionality includes searching records of medicine and printing bill (User layout) SahilBasia/Pharmacy_management_project/src/UserLayout.java
+Admin functionality includes searching ,deleting and adding records of medicine (Admin layout) 
+Non-admin functionality includes searching records of medicine and printing bill (User layout) 
 
